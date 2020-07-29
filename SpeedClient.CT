@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="27">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"无描述"</Description>
+      <LastState Value="2337370091" RealAddress="00A72CBC"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>speedclient.exe+52CBC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"无描述"</Description>
+      <LastState Value="33257" RealAddress="00A72D43"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>speedclient.exe+52D43</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"无描述"</Description>
+      <LastState Value="3431682448" RealAddress="00A72D48"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>speedclient.exe+52D48</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"无描述"</Description>
+      <LastState Value="9460301" RealAddress="00A20000"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>speedclient.exe</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

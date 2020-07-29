@@ -1,0 +1,4 @@
+﻿  main.cpp
+H:\c++\Project7\Project7\main.cpp(50,13): warning C4309: “初始化”: 截断常量值
+H:\c++\Project7\Project7\main.cpp(52,16): warning C4309: “初始化”: 截断常量值
+  Project7.vcxproj -> H:\c++\Project7\Debug\Project7.exe
